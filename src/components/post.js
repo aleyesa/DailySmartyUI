@@ -17,7 +17,7 @@ class Post extends Component {
 
                     </div>
                     <div className='post-link__link'>
-                        <a href={post_link.link_url}>Useful Link #{index + 1}</a>
+                        <a href={post_link.link_url}>Useful Link #{index + 1 }</a>
                     </div>
                 </div>
             )
